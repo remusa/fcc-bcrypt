@@ -12,11 +12,12 @@
 		"dev": "nodemon myApp.js"
 	},
 	"dependencies": {
-		"express": "^4.14.1",
-		"cors": "^2.8.1",
+		"bcryptjs": "^2.4.3",
 		"body-parser": "^1.16.0",
-		"mongodb": "^2.2.22",
-		"helmet": "^3.4.0"
+		"cors": "^2.8.1",
+		"express": "^4.14.1",
+		"helmet": "^3.4.0",
+		"mongodb": "^2.2.22"
 	},
 	"engines": {
 		"node": "4.4.3"
