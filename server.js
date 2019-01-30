@@ -6,7 +6,7 @@ const app = express()
 
 fccTesting(app) //For FCC testing purposes
 
-const bcrypt = require('bcryptjs')
+const bcrypt = require('bcrypt')
 
 const saltRounds = 12
 const myPlaintextPassword = 'sUperpassw0rd!'
